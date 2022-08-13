@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td valign="top" width="50%" style="border: none">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahoyeon&show_icons=true&locale=en&layout=compact&theme=dark" alt="nahoyeon"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahoyeon&show_icons=true&locale=en&layout=compact&theme=vue" alt="nahoyeon" />
         </td>
         <td valign="top" width="50%" style="border: none">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahoyeon&show_icons=true&locale=en&theme=dark" alt="nahoyeon" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahoyeon&show_icons=true&locale=en&theme=vue" alt="nahoyeon" />
         </td>
     </tr>
 </table>
+
 
