@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Hoyeon!✨</h1>
 <h3 align="center">STACKS:</h3>
 <p align="center">
   
