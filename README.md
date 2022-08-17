@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 <table style="border: none">
     <tr>
         <td valign="top" width="50%" style="border: none">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahoyeon&layout=compact)](https://github.com/nahoyeon/github-readme-stats)
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahoyeon&show_icons=true&locale=en&layout=compact&theme=dark.png" alt="nahoyeon" />
         </td>
         <td valign="top" width="50%" style="border: none">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahoyeon&show_icons=true&locale=en&theme=dark" alt="nahoyeon" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahoyeon&show_icons=true&locale=en&theme=dark.png" alt="nahoyeon" />
         </td>
     </tr>
 </table>
